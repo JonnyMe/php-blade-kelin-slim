@@ -1,0 +1,7 @@
+{
+    "require": {
+        "klein/klein": "^2.1",
+        "jenssegers/blade": "^1.1",
+        "adldap2/adldap2": "^8.1"
+    }
+}
