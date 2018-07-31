@@ -30,9 +30,6 @@ root
 |_ composer.json
 ```
 
-#### config.ini
-In questo file sono configurate le sezioni (promozioni|occhio-dei-lettori|sondaggi), vengono associate ad una tipologia e successivamente definite con i propri attributi.
-
 #### composer.json
 Qui sono definite le dipendenze del progetto, salvate nella cartella `/vendor`. E' un file generato da [**composer**](https://getcomposer.org/).
 
